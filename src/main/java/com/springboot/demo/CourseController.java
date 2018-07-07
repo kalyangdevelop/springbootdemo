@@ -37,8 +37,8 @@ public class CourseController {
     public void updateCourse(@RequestBody Course course){
         courseService.updateCourse(course);
     }
-public void findCourse(){
-        
+public void editCourse(){
+
 }
     }
 
